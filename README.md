@@ -32,5 +32,5 @@ python tool.py -u https://example.com -o output.txt
 python tool.py -s subs.txt -o output.txt
 
 ```
-[!Click Here](https://youtu.be/F4fEC9W7Uo8)(https://youtu.be/F4fEC9W7Uo8)]
+[![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFkOWk5ZnM5dXdpdHJ2bGU4cThvbXkzYWViZ3FvaG5lczU1cDd5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/trYVHReHjPyvzaNu4b/giphy.gif)](https://youtu.be/F4fEC9W7Uo8?si=AU8Q55CQDqsrDWU8)
 
