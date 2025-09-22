@@ -77,4 +77,4 @@ Localhost Reference:localhost:[0-9]{2,5}
 Dev/Stage URL:(dev|staging|test)\.[a-z0-9.-]+\.(com|net|io)
 Internal Subdomain URL:https?:\/\/[a-z0-9.-]+\.internal\.[a-z]{2,}
 Preprod URLs:https:\/\/preprod\.[a-z0-9-]+\.[a-z]{2,}
-
+Email : /^[^\s@]+@[^\s@]+\.[^\s@]+$/
